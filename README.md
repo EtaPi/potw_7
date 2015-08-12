@@ -1,6 +1,6 @@
 # potw_7
 
-onsider the set of mazes on a 4x4 grid. The outside edges are filled in, but the 24 internal edges may or may not be 'walls.' Here's an example (excuse the ASCII):
+Consider the set of mazes on a 4x4 grid. The outside edges are filled in, but the 24 internal edges may or may not be 'walls.' Here's an example (excuse the ASCII):
 
 ```
  _ _ _ _ 
